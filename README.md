@@ -4,7 +4,11 @@
 </a>
 
 <a href= "https://viktoryariy2002.olegovna@gmail.com">
-<img src = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor-white" alt="VK Badge"/>
+  <img src = "https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=Gmail&logoColor-white" alt="VK Badge"/>
 </a>
+</div>
+
+<div id="viewprof" aling ="center">
+  <img src = "https://komarev.com/ghpvc/?username=VikulyaBroo&style=flat-square&color=blue" alt=""/>
 </div>
 
