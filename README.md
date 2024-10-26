@@ -30,7 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg™ width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40* height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg* width=*40* height="40* />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg* width=*40* height="40* />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg* width=*40* height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg* width=*40* height="40" />
   </div>
-  
