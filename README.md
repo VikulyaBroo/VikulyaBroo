@@ -23,3 +23,5 @@
 - :airplane: факт обо мне
 
 - :city_sunrise: факт обо мне
+
+### hammer_and_wrench: Языки и инструменты:
