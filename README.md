@@ -17,3 +17,9 @@
 </div>
 
 ### :sunrise_over_mountains: Обо мне:
+
+- :camping: факт обо мне
+
+- :airplane: факт обо мне
+
+- :city_sunrise: факт обо мне
