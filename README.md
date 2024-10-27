@@ -37,5 +37,5 @@
 ### :trophy: Достижения :
 
 <div>
-  <img scr="https://github-profile-trophy.vercel.app/?username=VikulyaBroo" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VikulyaBroo" alt=""/>
 </div>
