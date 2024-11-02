@@ -18,11 +18,11 @@
 
 ### :sunrise_over_mountains: Обо мне:
 
-- :camping: факт обо мне
+- :camping: турист
 
-- :airplane: факт обо мне
+- :airplane: люблю летать на самолёте
 
-- :city_sunrise: факт обо мне
+- :city_sunrise: провожаю закаты в Египте
 
 ### :hammer_and_wrench: Языки и инструменты:
 
