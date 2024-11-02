@@ -12,7 +12,7 @@
   <img src = "https://komarev.com/ghpvc/?username=VikulyaBroo&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id-"heythere" align="center">
+<div id-"heythere" aling="center">
 <h1> Профиль на GITHUB </h1>
 </div>
 
