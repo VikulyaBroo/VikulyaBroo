@@ -8,7 +8,7 @@
 </a>
 </div>
 
-<div id="viewprof" aling ="center">
+<div id="viewprof" align ="center">
   <img src = "https://komarev.com/ghpvc/?username=VikulyaBroo&style=flat-square&color=blue" alt=""/>
 </div>
 
